@@ -1,6 +1,4 @@
-# AWS Architecture Service Icons (Package 04/30/2026)
-
-This repository contains the updated package of AWS service icons, organized by category and format.
+# AWS Certified Cloud Practitioner (CLF-C02) Study Guide 
 
 ## Table of Contents
 - [Compute](#compute)
