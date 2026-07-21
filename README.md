@@ -1,4 +1,4 @@
-# AWS Certified Cloud Practitioner (CLF-C02) Study Guide 
+# AWS Certified Cloud Practitioner (CLF-C02)
 
 ## Table of Contents
 - [Compute](#compute)
