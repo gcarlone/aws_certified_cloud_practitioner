@@ -7,5 +7,6 @@
 7. in the CloudFront description add a paragraph about the DDoS protection integration with Shield Standard and WAF
 8. in the CloudFront description add a paragraph about the Origins (S3 (add a description of OAC), VPC, Custom)
 9. Add Amazon MQ
+10. add codeguru (description about reviewer and profiler) + comparison to x-ray
 
 
