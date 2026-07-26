@@ -6,5 +6,6 @@
 6. in the Route 53 description add a paragraph about the Route53 routing policies (name + brief explanation)
 7. in the CloudFront description add a paragraph about the DDoS protection integration with Shield Standard and WAF
 8. in the CloudFront description add a paragraph about the Origins (S3 (add a description of OAC), VPC, Custom)
+9. Add Amazon MQ
 
 
