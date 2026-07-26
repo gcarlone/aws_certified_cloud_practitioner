@@ -188,12 +188,12 @@
 
 | Icon | Service | Global | Description |
 | :---: | :--- | :---: | :--- |
-| <img src="./Icons/Architecture-Service/Arch_Analytics/64/Arch_Amazon-Athena_64.png" width="40"> | [**Amazon Athena**](https://aws.amazon.com/athena/) | | Serverless interactive query service to analyze data directly in Amazon S3 using standard SQL, with no infrastructure to manage. |
-| <img src="./Icons/Architecture-Service/Arch_Analytics/64/Arch_Amazon-EMR_64.png" width="40"> | [**Amazon EMR**](https://aws.amazon.com/emr/) | | Managed big data platform to run Hadoop, Apache Spark, HBase, Presto, and Flink clusters for large-scale data processing. |
+| <img src="./Icons/Architecture-Service/Arch_Analytics/64/Arch_Amazon-Athena_64.png" width="40"> | [**Amazon Athena**](https://aws.amazon.com/athena/) | | Serverless interactive query service to analyze data directly in Amazon S3 using standard SQL, with no infrastructure to manage.<br>It's priced per TB of data scanned. |
+| <img src="./Icons/Architecture-Service/Arch_Analytics/64/Arch_Amazon-EMR_64.png" width="40"> | [**Amazon Elastic MapReduce (EMR)**](https://aws.amazon.com/emr/) | | Managed big data platform to run Hadoop, Apache Spark, HBase, Presto, and Flink **clusters** for large-scale data processing.<br>A cluster can be made of hundreds of EC2 instances: EMR takes care of all the provisioning, configuration and auto-scaling. |
 | <img src="./Icons/Architecture-Service/Arch_Analytics/64/Arch_AWS-Glue_64.png" width="40"> | [**AWS Glue**](https://aws.amazon.com/glue/) | | Serverless data integration service to discover, prepare, and combine data for analytics through extract, transform, and load (ETL) jobs. |
 | <img src="./Icons/Architecture-Service/Arch_Analytics/64/Arch_Amazon-Kinesis_64.png" width="40"> | [**Amazon Kinesis**](https://aws.amazon.com/kinesis/) | | Managed service to collect, process, and analyze real-time streaming data at any scale for timely insights. |
 | <img src="./Icons/Architecture-Service/Arch_Analytics/64/Arch_Amazon-OpenSearch-Service_64.png" width="40"> | [**Amazon OpenSearch Service**](https://aws.amazon.com/opensearch-service/) | | Managed search and analytics engine used to index, search, and visualize large volumes of log and application data. |
-| <img src="./Icons/Architecture-Service/Arch_Analytics/64/Arch_Amazon-Redshift_64.png" width="40"> | [**Amazon Redshift**](https://aws.amazon.com/redshift/) | | Fully managed, petabyte-scale data warehouse service that automatically provisions and scales capacity for analytics workloads. |
+| <img src="./Icons/Architecture-Service/Arch_Analytics/64/Arch_Amazon-Redshift_64.png" width="40"> | [**Amazon Redshift**](https://aws.amazon.com/redshift/) | | Fully managed, petabyte-scale data warehouse service (DWH) based on PostgreSQL that automatically provisions and scales capacity for analytics workloads. <br>Massive Parallel Query Execution for OLAP (Online Analyticla Processing). |
 
 ---
 
