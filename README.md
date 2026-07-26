@@ -63,6 +63,8 @@
 | <img src="./Icons/Architecture-Service/Arch_Compute/64/Arch_Amazon-Elastic-VMware-Service_64.png" width="40"> | [**Amazon Elastic VMware Service (EVS)**](https://aws.amazon.com/evs/) | | Hybrid service enabling enterprises to natively migrate, run, and scale VMware-based environments directly on AWS infrastructure. |
 
 ---
+ [Table of Contents](#table-of-contents)<br><br>
+
 
 ## Databases
 
@@ -82,6 +84,7 @@
 | <img src="./Icons/Architecture-Service/Arch_Databases/64/Arch_AWS-Database-Migration-Service_64.png" width="40"> | [**AWS Database Migration Service (DMS)**](https://aws.amazon.com/dms/) | | Managed service designed to simplify, accelerate, and securely manage the migration of databases directly into the AWS Cloud.<br>Supports **Homogeneous and Heterogeneous** database migrations while the source database remains available. |
 
 ---
+ [Table of Contents](#table-of-contents)<br><br>
 
 ## Business Applications
 
@@ -103,6 +106,7 @@
 | <img src="./Icons/Architecture-Service/Arch_Business-Applications/64/Arch_AWS-Wickr_64.png" width="40"> | [**AWS Wickr**](https://aws.amazon.com/wickr/) | | Secure enterprise communication workspace offering end-to-end encrypted chat, voice calls, file sharing, and administrative compliance. |
 
 ---
+ [Table of Contents](#table-of-contents)<br><br>
 
 ## Management Tools
 
@@ -144,6 +148,7 @@
 | <img src="./Icons/Architecture-Service/Arch_Management-Tools/64/Arch_AWS-Well-Architected-Tool_64.png" width="40"> | [**AWS Well-Architected Tool**](https://aws.amazon.com/well-architected-tool/) | | Free self-service tool to review workload architectures against the AWS Well-Architected Framework pillars and best practices. |
 
 ---
+ [Table of Contents](#table-of-contents)<br><br>
 
 ## Cloud Financial Management
 
@@ -158,6 +163,7 @@
 | <img src="./Icons/Architecture-Service/Arch_Cloud-Financial-Management/64/Arch_AWS-Marketplace_Dark_64.png" width="40"> | [**AWS Marketplace**](https://aws.amazon.com/marketplace/) | ✓ | Curated digital catalog of third-party software, AMIs, CloudFormation templates, SaaS, and container products deployable on AWS. |
 
 ---
+ [Table of Contents](#table-of-contents)<br><br>
 
 ## Customer Enablement
 
@@ -173,6 +179,7 @@
 | <img src="./Icons/Architecture-Service/Arch_Customer-Enablement/64/Arch_AWS-Training-Certification_64.png" width="40"> | [**AWS Training & Certification**](https://aws.amazon.com/training/) | ✓ | Professional education platform managing official cloud skills development tracks and technical validation exams. |
 
 ---
+ [Table of Contents](#table-of-contents)<br><br>
 
 ## End User Computing
 
@@ -183,6 +190,7 @@
 | <img src="./Icons/Architecture-Service/Arch_End-User-Computing/64/Arch-Category_End-User-Computing_64.png" width="40"> | [**Amazon WorkSpaces Secure Browser**](https://aws.amazon.com/workspaces/secure-browser/) † | | Fully managed, browser-based service providing secure, in-context access to internal websites and SaaS applications without a client or agent. |
 
 ---
+ [Table of Contents](#table-of-contents)<br><br>
 
 ## Analytics
 
@@ -196,6 +204,7 @@
 | <img src="./Icons/Architecture-Service/Arch_Analytics/64/Arch_Amazon-Redshift_64.png" width="40"> | [**Amazon Redshift**](https://aws.amazon.com/redshift/) | | Fully managed, petabyte-scale data warehouse service (DWH) based on PostgreSQL that automatically provisions and scales capacity for analytics workloads. <br>Massive Parallel Query Execution for OLAP (Online Analyticla Processing). |
 
 ---
+ [Table of Contents](#table-of-contents)<br><br>
 
 ## Application Integration
 
@@ -207,6 +216,7 @@
 | <img src="./Icons/Architecture-Service/Arch_Application-Integration/64/Arch_AWS-Step-Functions_64.png" width="40"> | [**AWS Step Functions**](https://aws.amazon.com/step-functions/) | | Serverless visual workflow service to orchestrate Lambda functions and AWS services with sequences, branching, and error handling. |
 
 ---
+ [Table of Contents](#table-of-contents)<br><br>
 
 ## Containers
 
@@ -218,6 +228,7 @@
 | <img src="./Icons/Architecture-Service/Arch_Containers/64/Arch_AWS-Fargate_64.png" width="40"> | [**AWS Fargate**](https://aws.amazon.com/fargate/) | | Serverless compute engine for containers that runs ECS or EKS workloads without provisioning or managing underlying EC2 instances. |
 
 ---
+ [Table of Contents](#table-of-contents)<br><br>
 
 ## Developer Tools
 
@@ -229,6 +240,7 @@
 | <img src="./Icons/Architecture-Service/Arch_Developer-Tools/64/Arch_AWS-X-Ray_64.png" width="40"> | [**AWS X-Ray**](https://aws.amazon.com/xray/) | | Distributed tracing and debugging service used to analyze and troubleshoot performance issues in production applications. |
 
 ---
+ [Table of Contents](#table-of-contents)<br><br>
 
 ## Front-End Web & Mobile
 
@@ -238,6 +250,7 @@
 | <img src="./Icons/Architecture-Service/Arch_Front-End-Web-Mobile/64/Arch_AWS-AppSync_64.png" width="40"> | [**AWS AppSync**](https://aws.amazon.com/appsync/) | | Managed GraphQL service to build APIs that synchronize data across mobile and web apps in real time, with offline support. |
 
 ---
+ [Table of Contents](#table-of-contents)<br><br>
 
 ## Internet of Things (IoT)
 
@@ -246,6 +259,7 @@
 | <img src="./Icons/Architecture-Service/Arch_Internet-of-Things/64/Arch_AWS-IoT-Core_64.png" width="40"> | [**AWS IoT Core**](https://aws.amazon.com/iot-core/) | | Managed, scalable service that lets connected IoT devices securely interact with the AWS Cloud and other devices. |
 
 ---
+ [Table of Contents](#table-of-contents)<br><br>
 
 ## Machine Learning
 
@@ -263,6 +277,7 @@
 | <img src="./Icons/Architecture-Service/Arch_Artificial-Intelligence/64/Arch_Amazon-Translate_64.png" width="40"> | [**Amazon Translate**](https://aws.amazon.com/translate/) | | Neural machine translation service delivering fast, accurate language translation to localize content for global users. |
 
 ---
+ [Table of Contents](#table-of-contents)<br><br>
 
 ## Migration & Transfer
 
@@ -277,6 +292,7 @@
 > Note: [**AWS Database Migration Service (AWS DMS)**](https://aws.amazon.com/dms/), also required for the exam in this area, is already listed in the [Databases](#databases) table.
 
 ---
+ [Table of Contents](#table-of-contents)<br><br>
 
 ## Networking & Content Delivery
 
@@ -295,6 +311,7 @@
 | <img src="./Icons/Architecture-Service/Arch_Networking-Content-Delivery/64/Arch_AWS-Client-VPN_64.png" width="40"> | [**AWS Client VPN**](https://aws.amazon.com/vpn/client-vpn/) | | Managed client-based VPN service that lets users securely connect to AWS and on-premises networks from any location. |
 
 ---
+ [Table of Contents](#table-of-contents)<br><br>
 
 ## Security, Identity & Compliance
 
@@ -321,6 +338,7 @@
 | <img src="./Icons/Architecture-Service/Arch_Security-Identity/64/Arch_AWS-WAF_64.png" width="40"> | [**AWS WAF**](https://aws.amazon.com/waf/) | ✓ | Web application firewall that protects web applications and APIs from common exploits using configurable rules. |
 
 ---
+ [Table of Contents](#table-of-contents)<br><br>
 
 ## Storage
 
@@ -337,6 +355,7 @@
 | <img src="./Icons/Architecture-Service/Arch_Storage/64/Arch_AWS-Snowball_64.png" width="40"> | [**AWS Snowball**](https://aws.amazon.com/snow/) | | Highly secure, portable Snowball Edge devices used to migrate up to petabytes of data into and out of AWS and to perform edge computing (running EC2 instances or Lambda functions in locations with limited or no connectivity).<br><br>**Snowball Edge Storage Optimized** — device optimized for large-scale data transfer and storage, offering the highest storage capacity (up to 210 TB).<br><br>**Snowball Edge Compute Optimized** — device dedicated to edge computing use cases (e.g. data preprocessing, machine learning, media transcoding), trading storage capacity for more compute power. |
 
 ---
+ [Table of Contents](#table-of-contents)<br><br>
 
 ## Blockchain
 
@@ -345,6 +364,7 @@
 | <img src="./Icons/Architecture-Service/Arch_Blockchain/64/Arch_Amazon-Managed-Blockchain_64.png" width="40"> | [**Amazon Managed Blockchain**](https://aws.amazon.com/managed-blockchain/) | | Managed network deployment engine helping teams build public or private distributed hyperledger architectures. |
 
 ---
+ [Table of Contents](#table-of-contents)<br><br>
 
 ## Quantum Technologies
 
@@ -353,6 +373,7 @@
 | <img src="./Icons/Architecture-Service/Arch_Quantum-Technologies/64/Arch_Amazon-Braket_64.png" width="40"> | [**Amazon Braket**](https://aws.amazon.com/braket/) | | Managed simulation workspace designed to help developers build, validate, and test advanced quantum computing algorithms. |
 
 ---
+ [Table of Contents](#table-of-contents)<br><br>
 
 ## AWS Global Infrastructure Concepts
 
@@ -368,6 +389,7 @@ AWS services are hosted in multiple locations world-wide, composed of Regions, A
 **See also:** [AWS Global Infrastructure](https://aws.amazon.com/it/about-aws/global-infrastructure/)
 
 ---
+ [Table of Contents](#table-of-contents)<br><br>
 
 ## AWS Shared Responsibility Model
 
@@ -389,3 +411,5 @@ Security and compliance are a shared responsibility between AWS and the customer
 
 **See also:** [AWS Shared Responsibility Model – Amazon Web Services (AWS)](https://aws.amazon.com/compliance/shared-responsibility-model/)
 
+
+ [Table of Contents](#table-of-contents)<br><br>
