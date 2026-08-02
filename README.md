@@ -185,8 +185,8 @@
 
 | Icon | Service | Global | Description |
 | :---: | :--- | :---: | :--- |
-| <img src="./Icons/Architecture-Service/Arch_End-User-Computing/64/Arch_Amazon-WorkSpaces_64.png" width="40"> | [**Amazon WorkSpaces**](https://aws.amazon.com/workspaces/) | | Secure, fully managed cloud virtual desktop infrastructure (VDI) solution designed for remote worker deployment. |
-| <img src="./Icons/Architecture-Service/Arch_End-User-Computing/64/Arch-Category_End-User-Computing_64.png" width="40"> | [**Amazon AppStream 2.0**](https://aws.amazon.com/appstream2/) | | Fully managed application streaming service that delivers desktop applications from a web browser without provisioning end-user infrastructure. |
+| <img src="./Icons/Architecture-Service/Arch_End-User-Computing/64/Arch_Amazon-WorkSpaces_64.png" width="40"> | [**Amazon WorkSpaces**](https://aws.amazon.com/workspaces/) | | Secure, fully managed cloud virtual desktop infrastructure (VDI) solution designed for remote worker deployment. It's a Managed Desktop as a Service (***DaaS***) solution.|
+| <img src="./Icons/Architecture-Service/Arch_End-User-Computing/64/Arch-Category_End-User-Computing_64.png" width="40"> | [**Amazon AppStream 2.0**](https://aws.amazon.com/appstream2/) | | Fully managed application streaming service that delivers desktop applications ***from a web browser*** without provisioning end-user infrastructure. |
 | <img src="./Icons/Architecture-Service/Arch_End-User-Computing/64/Arch-Category_End-User-Computing_64.png" width="40"> | [**Amazon WorkSpaces Secure Browser**](https://aws.amazon.com/workspaces/secure-browser/) † | | Fully managed, browser-based service providing secure, in-context access to internal websites and SaaS applications without a client or agent. |
 
 ---
@@ -290,9 +290,9 @@
 
 | Icon | Service | Global | Description |
 | :---: | :--- | :---: | :--- |
-| <img src="./Icons/Architecture-Service/Arch_Migration-Modernization/64/Arch_AWS-Application-Discovery-Service_64.png" width="40"> | [**AWS Application Discovery Service**](https://aws.amazon.com/application-discovery/) | | Service that gathers configuration, usage, and dependency data from on-premises data centers to plan cloud migrations. |
-| <img src="./Icons/Architecture-Service/Arch_Migration-Modernization/64/Arch_AWS-Application-Migration-Service_64.png" width="40"> | [**AWS Application Migration Service (MGN)**](https://aws.amazon.com/application-migration-service/) | | Lift-and-shift (rehost) solution that simplifies migrating physical, virtual, and cloud-based servers to AWS. |
-| <img src="./Icons/Architecture-Service/Arch_Migration-Modernization/64/Arch_AWS-Migration-Evaluator_64.png" width="40"> | [**AWS Migration Evaluator**](https://aws.amazon.com/migration-evaluator/) | | Service that builds a data-driven business case for migration by analyzing on-premises inventory, usage, and cost. |
+| <img src="./Icons/Architecture-Service/Arch_Migration-Modernization/64/Arch_AWS-Application-Discovery-Service_64.png" width="40"> | [**AWS Application Discovery Service**](https://aws.amazon.com/application-discovery/) | | Service that gathers configuration, usage, and dependency data from on-premises data centers to plan cloud migrations (Agentless or Agent-based Discovery). |
+| <img src="./Icons/Architecture-Service/Arch_Migration-Modernization/64/Arch_AWS-Application-Migration-Service_64.png" width="40"> | [**AWS Application Migration Service (MGN)**](https://aws.amazon.com/application-migration-service/) | | Lift-and-shift (rehost) solution that simplifies migrating physical, virtual, and cloud-based servers to AWS (continuous replication using AWS Replication Agent). |
+| <img src="./Icons/Architecture-Service/Arch_Migration-Modernization/64/Arch_AWS-Migration-Evaluator_64.png" width="40"> | [**AWS Migration Evaluator**](https://aws.amazon.com/migration-evaluator/) | | Service that builds a data-driven business case for migration by analyzing on-premises inventory, usage, and cost (Agentless Collector to gather data + imported data). |
 | <img src="./Icons/Architecture-Service/Arch_Migration-Modernization/64/Arch_AWS-Migration-Hub_64.png" width="40"> | [**AWS Migration Hub**](https://aws.amazon.com/migration-hub/) | | Central location to discover, plan, and track the status of application migrations to AWS across multiple tools. |
 | <img src="./Icons/Architecture-Service/Arch_Migration-Modernization/64/Arch-Category_Migration-Modernization_64.png" width="40"> | **AWS Schema Conversion Tool (AWS SCT)** † | | Tool that automatically converts source database schemas and most custom code to a format compatible with the target database engine. |
 
